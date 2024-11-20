@@ -1,0 +1,22 @@
+[
+    {
+        "user_id": 1,
+        "username": "Dima",
+        "status": "offline"
+    },
+    {
+        "user_id": 2,
+        "username": "Ivan",
+        "status": "offline"
+    },
+    {
+        "user_id": 3,
+        "username": "Kolya",
+        "status": "offline"
+    },
+    {
+        "user_id": 4,
+        "username": "Bob",
+        "status": "offline"
+    }
+]
